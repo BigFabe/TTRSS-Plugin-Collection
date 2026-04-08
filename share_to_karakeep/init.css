@@ -1,0 +1,8 @@
+.icon-karakeep.is-saving {
+	opacity: 0.5;
+	pointer-events: none;
+}
+
+.icon-karakeep.is-saved {
+	color: var(--orange-600, #c2410c);
+}
